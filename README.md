@@ -16,7 +16,7 @@ Folder:public inside folder assets inside folder logo
 
 - **Images Path Information:**
   - Images are located in a directory structure with the following hierarchy:
-    ```
+    ```css
     Folder: public
       Inside folder: assets
         Inside folder: logo
@@ -24,6 +24,6 @@ Folder:public inside folder assets inside folder logo
 
 - **Correct Image Import Path:**
   - To import an image from this path in your React code, you should use the following path:
-    ```
+    ```css
     ./assets/logo/logo.png
     ```
